@@ -1,0 +1,15 @@
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\bin\Debug\net6.0\Singleton2BuforDrukarki.exe
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\bin\Debug\net6.0\Singleton2BuforDrukarki.deps.json
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\bin\Debug\net6.0\Singleton2BuforDrukarki.runtimeconfig.json
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\bin\Debug\net6.0\Singleton2BuforDrukarki.dll
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\bin\Debug\net6.0\Singleton2BuforDrukarki.pdb
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.AssemblyInfo.cs
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.dll
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\refint\Singleton2BuforDrukarki.dll
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.pdb
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\Singleton2BuforDrukarki.genruntimeconfig.cache
+D:\VisualStudioRepos\Singleton2BuforDrukarki\Singleton2BuforDrukarki\obj\Debug\net6.0\ref\Singleton2BuforDrukarki.dll
